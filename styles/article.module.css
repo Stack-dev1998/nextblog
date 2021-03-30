@@ -1,0 +1,9 @@
+.header {
+  max-width: 95%;
+  border-bottom: 1px solid #007bff;
+}
+.article_body {
+  width: 100%;
+}
+@media (max-width: 768px) {
+}
